@@ -12,6 +12,7 @@ const Navbar = () => {
     { name: "Beranda", href: "/" },
     { name: "Tentang Kami", href: "/about" },
     { name: "Siswa Sukses", href: "/students" },
+    { name: "Blog", href: "/blog" },
     { name: "Testimoni", href: "/testimonials" },
     { name: "Kontak", href: "/contact" },
   ];
